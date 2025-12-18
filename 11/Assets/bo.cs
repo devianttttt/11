@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class OpenPanel : MonoBehaviour
 {
-    public GameObject panel; // Перетащи сюда панель в инспекторе
+    public GameObject panel;
 
     public void Open()
     {
